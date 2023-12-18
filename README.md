@@ -9,7 +9,7 @@ The backup manual and firmware of FNIRSI-2C23T
 to the desktop.
 
 ② Connect the device to the computer using the USBA to Type-C data cable,
-press and hold the button, and then press the to enter firmware
+press and hold the **MENU** button, and then press the **⏻** to enter firmware
 upgrade mode, and the computer will pop up the USB flash drive;
 
 ③ Copy the firmware to the USB drive, and after successful replication, the
