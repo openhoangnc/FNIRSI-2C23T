@@ -1,5 +1,5 @@
 # FNIRSI-2C23T
-Backup manual and firmware of FNIRSI-2C23T
+The backup manual and firmware of FNIRSI-2C23T
 
 <img width="638" alt="image" src="https://github.com/openhoangnc/FNIRSI-2C23T/assets/20717116/70a4f610-51e7-4902-818a-fa1b0386958b">
 
