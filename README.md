@@ -26,10 +26,18 @@ Manual: https://img.wqdres.com/res/0/20231206/8d80615fade147cfafe885021b264823.p
 
 Firmware: https://img.wqdres.com/res/0/20231130/27604f59f32c4e22801b61c528475962.rar
 
+English Firmware V2.1.0: [F2C23T-GW-EN_V2.1.0.zip](https://github.com/openhoangnc/FNIRSI-2C23T/files/22541172/F2C23T-GW-EN_V2.1.0.zip)
+
 Update log
 ---
 
 ```txt
+/******************************************************/
+V2.1.0 (English Firmware)
+- English firmware release
+- Source: https://www.eevblog.com/forum/testgear/new-handheld-scopemultimeter-fnirsi-2c23t-2ch-10mhz50msps-(november-2023)/msg5597929/#msg5597929
+/******************************************************/
+
 /******************************************************/
 V2.0.2 20231122
 1. The lack of LOGO analysis
